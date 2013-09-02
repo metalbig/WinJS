@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP</Machine>
+    <WindowsUser>Kamen</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>75400F6A335934DCD9F2E143671393E17F695C58C6A56A764BBA1CEAC4EE5F01</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>51fde9b5-8dd2-4cf0-968b-db0f82fe5901_1.0.0.0_neutral__aw9djah8hmwbm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>51fde9b5-8dd2-4cf0-968b-db0f82fe5901_aw9djah8hmwbm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>51fde9b5-8dd2-4cf0-968b-db0f82fe5901</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kamen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-30T09:56:29.738</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-30T09:10:51.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\files\genesis.txt">
+      <PackagePath>files\genesis.txt</PackagePath>
+      <Modified>2013-08-30T08:46:08.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\files\01-Genesis.txt">
+      <PackagePath>files\01-Genesis.txt</PackagePath>
+      <Modified>2013-08-30T08:38:41.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\files\opit.txt">
+      <PackagePath>files\opit.txt</PackagePath>
+      <Modified>2013-08-30T09:32:44.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-02T14:12:47.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-30T09:24:21.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-30T09:56:29.691</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

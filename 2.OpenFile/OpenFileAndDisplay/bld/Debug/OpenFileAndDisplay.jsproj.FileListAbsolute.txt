@@ -1,0 +1,13 @@
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bin\Debug\resources.pri
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bin\Debug\AppxManifest.xml
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bin\Debug\OpenFileAndDisplay.build.appxrecipe
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\priconfig.xml.intermediate
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\layout.resfiles.intermediate
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\resources.resfiles.intermediate
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\pri.resfiles.intermediate
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\priconfig.xml
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\layout.resfiles
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\resources.resfiles
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\pri.resfiles
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\LanguageQualifiers.txt
+C:\Users\Kamen\Documents\Visual Studio 2012\Projects\TeamWorkTryouts\2.OpenFile\OpenFileAndDisplay\bld\Debug\ProjectArchitectures.txt
