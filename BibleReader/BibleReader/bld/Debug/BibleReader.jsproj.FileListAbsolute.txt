@@ -1,0 +1,9 @@
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Debug\resources.pri
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Debug\AppxManifest.xml
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Debug\BibleReader.build.appxrecipe
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\priconfig.xml
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\layout.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\resources.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\pri.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\LanguageQualifiers.txt
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Debug\ProjectArchitectures.txt
