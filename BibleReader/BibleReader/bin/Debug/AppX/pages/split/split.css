@@ -114,6 +114,7 @@
 
         .splitpage .articlesection .article-content {
             overflow-y: auto;
+            padding-bottom:90pt;
         }
 
             .splitpage .articlesection .article-content p {

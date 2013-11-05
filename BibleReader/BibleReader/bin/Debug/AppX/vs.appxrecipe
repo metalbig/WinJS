@@ -5,18 +5,18 @@
     <WindowsUser>Kamen</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>D3A4D93350E9B7594D4952612EFFD78C9CC7F59A2B7371CDE5E88CAFF914FBE7</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>502ba224-c7fa-42b2-a0d4-bb7cda2bf6b8_1.0.0.0_neutral__aw9djah8hmwbm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>502ba224-c7fa-42b2-a0d4-bb7cda2bf6b8_aw9djah8hmwbm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>502ba224-c7fa-42b2-a0d4-bb7cda2bf6b8</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Kamen</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>EA77739F42A9D1B0E8341CCCCE26E6566307783FC892374434168325C0B45CC1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>26109KamenRadev.1940_1.0.0.1_neutral__q8dk6mzdte8t2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>26109KamenRadev.1940_q8dk6mzdte8t2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>26109KamenRadev.1940</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=88600A4D-EB8E-4086-B0E9-7152CF6A1CDA</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-03T14:32:14.638</Modified>
+      <Modified>2013-09-19T06:43:34.444</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -30,7 +30,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\pages\split\split.css">
       <PackagePath>pages\split\split.css</PackagePath>
-      <Modified>2013-09-03T05:16:48.707</Modified>
+      <Modified>2013-09-10T15:35:14.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -54,7 +54,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\images\newtestament.jpg">
       <PackagePath>images\newtestament.jpg</PackagePath>
-      <Modified>2013-09-02T18:36:41.496</Modified>
+      <Modified>2013-09-10T17:02:40.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\images\oldtestament.jpg">
       <PackagePath>images\oldtestament.jpg</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2013-09-03T14:48:51.890</Modified>
+      <Modified>2013-09-16T07:07:06.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\js\default.js">
       <PackagePath>js\default.js</PackagePath>
@@ -82,7 +82,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\pages\items\items.js">
       <PackagePath>pages\items\items.js</PackagePath>
-      <Modified>2013-09-03T05:16:48.770</Modified>
+      <Modified>2013-09-10T15:53:45.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\pages\split\split.js">
       <PackagePath>pages\split\split.js</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\pages\items\items.html">
       <PackagePath>pages\items\items.html</PackagePath>
-      <Modified>2013-09-03T05:20:16.972</Modified>
+      <Modified>2013-09-10T15:53:32.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\pages\split\split.html">
       <PackagePath>pages\split\split.html</PackagePath>
@@ -102,7 +102,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-09-03T11:27:53.127</Modified>
+      <Modified>2013-09-19T06:43:34.181</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

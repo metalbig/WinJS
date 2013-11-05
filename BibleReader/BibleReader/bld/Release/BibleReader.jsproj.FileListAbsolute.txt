@@ -1,0 +1,13 @@
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Release\resources.pri
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Release\AppxManifest.xml
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bin\Release\BibleReader.build.appxrecipe
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\priconfig.xml.intermediate
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\layout.resfiles.intermediate
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\resources.resfiles.intermediate
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\pri.resfiles.intermediate
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\priconfig.xml
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\layout.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\resources.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\pri.resfiles
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\LanguageQualifiers.txt
+C:\Users\Kamen\Documents\GitHub\WinJS\BibleReader\BibleReader\bld\Release\ProjectArchitectures.txt
